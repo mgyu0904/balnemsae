@@ -1,0 +1,47 @@
+# 발냄새연구소
+
+> 발 냄새·각질·티눈 관리
+
+발냄새연구소는 발냄새·각질·티눈 주제를 다루는 정보 사이트입니다. 겪은 사람들의 질문과 그에 대한 정리를 글로 모았습니다.
+
+## 다루는 범위
+
+- **발 냄새**: 발 냄새 원인과 관리 정보입니다.
+- **각질·굳은살**: 발 각질과 굳은살 정보입니다.
+- **티눈·뒤꿈치**: 티눈과 뒤꿈치 갈라짐 정보입니다.
+
+## 글
+
+- [발뒤꿈치 갈라짐 각질 제거 크림 뭘로 바꿔야 할까요ㅠ](https://balnemsae.org/care/각질-제거-크림/)
+- [각질제거기로도 발뒤꿈치 각질이 안 없어지는데 다들 어떡하세요](https://balnemsae.org/care/각질제거기/)
+- [굳은살 제거 계속했다가 상처만 커졌어요ㅠ](https://balnemsae.org/care/굳은살-제거/)
+- [뒤꿈치 패드 붙여봐도 갈라진 자국이 안 없어져요ㅜ](https://balnemsae.org/care/뒤꿈치-패드/)
+- [발 가려움 요즘 부쩍 심해졌는데 어떻게 해야 할까요](https://balnemsae.org/care/발-가려움/)
+- [발 각질 생기는 원인이 이거였어요ㅜ](https://balnemsae.org/care/발-각질-원인/)
+- [발 굳은살 자꾸 생기는데 어떻게 해야 할까요ㅠ](https://balnemsae.org/care/발-굳은살/)
+- [발가락에 굳은살 생겼는데 어쩌죠ㅜ](https://balnemsae.org/care/발가락-굳은살/)
+- [발가락 굳은살 제거, 방법 알려주세요ㅜ](https://balnemsae.org/care/발가락-굳은살-제거/)
+- [새 신발 신었다가 발가락 물집 밴드 붙여도 되나요](https://balnemsae.org/care/발가락-물집-밴드/)
+- [발가락 사이 갈라짐 이거 왜 자꾸 더 심해지는 걸까요ㅜ](https://balnemsae.org/care/발가락-사이-갈라짐/)
+- [발가락 사이 찢어짐 진짜 너무 아파서 죽겠어요ㅠㅠ](https://balnemsae.org/care/발가락-사이-찢어짐/)
+- [발각질제거크림 좋은 거 추천 좀요ㅠ](https://balnemsae.org/care/발각질제거크림/)
+- [발관리 대체 어떻게들 하세요?ㅜㅜ](https://balnemsae.org/care/발관리/)
+- [발관리샵 어디로 다녀야 할까요ㅜㅜ](https://balnemsae.org/care/발관리샵/)
+- [발굳은살제거, 병원 말고는 방법이 없을까요ㅜ](https://balnemsae.org/care/발굳은살제거/)
+- [발꿈치 각질제거 이제 어떡하죠ㅠ](https://balnemsae.org/care/발꿈치-각질제거/)
+- [발꿈치 갈라짐 계속 벌어지는데 어떻게 관리하세요](https://balnemsae.org/care/발꿈치-갈라짐/)
+- [발냄새 스프레이 다들 어떤 제품 쓰시나요ㅜ](https://balnemsae.org/care/발냄새-스프레이/)
+- [발냄새 원인이 대체 뭔지 모르겠어요ㅜㅜ](https://balnemsae.org/care/발냄새-원인/)
+- [발뒤꿈치 각질제거 어떻게 하면 좋을까요ㅜ](https://balnemsae.org/care/발뒤꿈치-각질제거/)
+- [발바닥 각질 제거 방법이 뭘까요ㅠ](https://balnemsae.org/care/발바닥-각질-제거/)
+- [발바닥 간지러움 물집 원인이 뭘까요ㅠ](https://balnemsae.org/care/발바닥-간지러움-물집/)
+- [발바닥 수포 가려움 대체 왜 이러죠ㅜ](https://balnemsae.org/care/발바닥-수포-가려움/)
+- [발바닥 수포랑 간지러움 이게 뭘까요ㅠ](https://balnemsae.org/care/발바닥-수포-간지러움/)
+- [자꾸 나는 손땀 때문에 힘드네요ㅜ](https://balnemsae.org/care/손땀/)
+- [아기 손에 물집 생겼는데 어쩌죠ㅠ](https://balnemsae.org/care/아기-손-물집/)
+- [여자 발냄새 너무 심해서 고민이에요ㅜ](https://balnemsae.org/care/여자-발냄새/)
+
+## 안내
+
+- 이 사이트의 글은 일반적인 생활 정보이며 의학적 진단이나 치료를 대신하지 않습니다.
+- 사이트맵: https://balnemsae.org/sitemap.xml
